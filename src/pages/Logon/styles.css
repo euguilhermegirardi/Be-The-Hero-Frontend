@@ -1,0 +1,47 @@
+.logon-container {
+  width: 100%;
+  max-width: 1120px;
+  height: 100vh;
+  margin: 0 auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@media (max-width: 1000px) {
+  .logon-container {
+    flex-direction: column;
+    justify-content: center;
+    height: 120vh;
+  }
+
+  .logon-container section.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .logon-container section.form form {
+    margin-top: 20px;
+  }
+
+  .logon-img {
+    width: 450px;
+  }
+}
+
+.logon-container section.form {
+  width: 100%;
+  max-width: 350px;
+}
+
+.logon-container section.form form {
+  margin-top: 100px;
+}
+
+.logon-container section.form h2 {
+  font-size: 32px;
+  margin-bottom: 32px;
+}
