@@ -16,8 +16,8 @@ The frontend was developed with [**_ReactJS_**](https://reactjs.org/) using [**_
 **Login**
 ![homepage](.github/homepage.png)
 
-**New Case**
-![new-case](.github/new-case.png)
+**Sign-up for a new case**
+![sign-up](.github/new-case.png)
 
 **Registered**
 ![registered](.github/registered-id.png)
