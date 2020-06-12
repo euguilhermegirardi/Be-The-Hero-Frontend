@@ -16,17 +16,17 @@ The frontend was developed with [**_ReactJS_**](https://reactjs.org/) using [**_
 **Login**
 ![homepage](.github/homepage.png)
 
-**Sign-up for a new case**
-![sign-up](.github/new-case.png)
-
-**Registered**
-![registered](.github/registered-id.png)
+**Sign-up for an ID**
+![sign-up](.github/registered-id.png)
 
 **Login-Id**
 ![login-id](.github/login-id.png)
 
 **Dashboard**
 ![dashboard](.github/dashboard.png)
+
+**New case**
+![new-case](.github/new-case.png)
 
 **New Dashboard**
 ![new-dashboard](.github/new-dashboard.png)
