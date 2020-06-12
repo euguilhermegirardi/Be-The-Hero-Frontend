@@ -53,7 +53,7 @@ The frontend was developed with [**_ReactJS_**](https://reactjs.org/) using [**_
 
        npm run start
 
-5.**Note**: You have to run the [**_backend_**](https://github.com/euguilhermegirardi/Be-The-Hero-Backend) to run this application.
+5. **Note**: You have to run the [**_backend_**](https://github.com/euguilhermegirardi/Be-The-Hero-Backend) to run this application.
 
 ## Contributing
 
